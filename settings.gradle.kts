@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyApplicationForAndroid"
+rootProject.name = "google_android_app"
 include(":app")
